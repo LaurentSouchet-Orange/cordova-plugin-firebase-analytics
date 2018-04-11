@@ -3,7 +3,9 @@
 
 ## Installation
 
-    cordova plugin add cordova-plugin-firebase-analytics --save
+    cordova plugin add https://github.com/LaurentSouchet-Orange/cordova-plugin-firebase-analytics --save
+
+**In this version I've just added TagManager to have all analytics of Google.**
 
 If you need to set a specific dependency version on Android then use variable `FIREBASE_VERSION`.
 
